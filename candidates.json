@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "email": "sarah.j@example.com",
+      "skills": ["Python", "Machine Learning", "TensorFlow", "SQL", "Data Analysis"],
+      "experience_years": 5,
+      "current_role": "Senior ML Engineer",
+      "education": "MS in Computer Science",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 2,
+      "name": "Mike Chen",
+      "email": "mike.chen@example.com",
+      "skills": ["JavaScript", "React", "Node.js", "Python", "MongoDB"],
+      "experience_years": 3,
+      "current_role": "Full Stack Developer",
+      "education": "BS in Software Engineering",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 3,
+      "name": "Priya Patel",
+      "email": "priya.p@example.com",
+      "skills": ["Java", "Spring Boot", "AWS", "PostgreSQL", "Docker"],
+      "experience_years": 6,
+      "current_role": "Backend Architect",
+      "education": "MS in Computer Engineering",
+      "location": "New York, NY"
+    }
+  ]
+}
