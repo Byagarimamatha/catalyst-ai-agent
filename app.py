@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import pandas as pd
 from datetime import datetime
-from jd_parser import parse_jd_simple, parse_jd_with_ai
+from jd_parser import parse_jd_simple
 from matcher import calculate_match_score
 from outreach import OutreachSimulator
 
