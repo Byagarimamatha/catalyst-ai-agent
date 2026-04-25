@@ -42,4 +42,4 @@ def parse_jd_simple(jd_text: str) -> Dict:
         "raw_jd": jd_text
     }
 
-# Simple parser only - no OpenAI needed
+# No OpenAI here
