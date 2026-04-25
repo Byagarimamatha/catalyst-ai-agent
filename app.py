@@ -145,7 +145,7 @@ with col2:
         st.markdown("### 🏆 Ranked Shortlist")
         
         for idx, r in enumerate(results[:5], 1):
-            c = r['customer']
+           c = r['candidate']
             medal = "🥇" if idx == 1 else "🥈" if idx == 2 else "🥉" if idx == 3 else f"#{idx}"
             badge = f'<span class="badge-{"high" if r["interest_level"]=="High" else "medium" if r["interest_level"]=="Medium" else "low"}">{r["interest_level"]} Interest</span>'
             
